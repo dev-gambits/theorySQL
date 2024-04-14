@@ -10,3 +10,7 @@ CREATE TABLE actors (
     add_date DATE,
     update_date DATE
 );
+
+
+SELECT * FROM actors;
+DROP TABLE actors;
